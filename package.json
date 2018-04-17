@@ -1,0 +1,26 @@
+{
+  "name": "php_examples",
+  "version": "1.0.0",
+  "description": "É isso aí",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timzzao/php_examples.git"
+  },
+  "keywords": [
+    "php",
+    "json",
+    "npm",
+    "angular",
+    "application"
+  ],
+  "author": "Timzzao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timzzao/php_examples/issues"
+  },
+  "homepage": "https://github.com/Timzzao/php_examples#readme"
+}
